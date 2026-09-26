@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/saanvi-srivastava-937b56321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/saanvi-006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:your.email@saanvisrivastava2506@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 I'm genuinely curious about **how AI/ML actually works under the hood** — not just using it, but understanding the mechanics behind it — and I like turning that understanding into real, usable full-stack products.
 
 - 🔭 Currently working on: **graph-based approaches to AI problems** *(early-stage exploration)*
-- 🌱 Currently learning: **production-grade cloud infrastructure, advanced AI/ML, and databases like DynamoDB & Aurora**
+- 🌱 Currently learning: **production tech stacks — AWS & GCP cloud services, cloud infra, advanced AI/ML, and databases like DynamoDB & Aurora**
 - 💬 Ask me about: **ML models, AI agent development, and cloud deployments**
 - 📍 Based in India
 
@@ -64,12 +64,12 @@ I'm genuinely curious about **how AI/ML actually works under the hood** — not 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saanvi-006&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saanvi-006&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-stats-extended-frontend-rouge-two.vercel.app/api?username=saanvi-006&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=saanvi-006&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanvi-006&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended-frontend-rouge-two.vercel.app/api/top-langs/?username=saanvi-006&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 ---
