@@ -7,20 +7,20 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/saanvi-srivastava-937b56321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=saanvi-006&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS">
 </p>
 
 ---
 
-### About Me
+### 🚀 About Me
 
-I'm a CSE (AI & ML) undergraduate (2024–2028, CGPA: 8.89) with a genuine interest in how AI/ML systems actually work under the hood, alongside a broader interest in full-stack development. I like understanding things at a fundamental level rather than just using them at the surface.
+CSE (AI & ML) undergrad (2024–2028, CGPA: 8.89). I care less about running models and more about understanding why they work — and using that to build things that solve real problems, not just demo well.
 
 Right now, I'm strengthening my core CS foundations while going deeper into applied AI/ML — trying to build a base that's solid enough to actually engineer real systems, not just experiment with them.
 
 - 🧩 **Working on:** graph-based approaches to AI problems *(early-stage)*
-- 📚 **Learning:** databases, system design, and advanced AI/ML concepts
+- 📚 **Learning:** databases, operating systems, system design, production-grade tech stacks, and advanced AI/ML concepts
 - 💡 **Interested in:** ML models, AI agent development, and cloud deployments
+- 📍 **Based in:** India
 
 ---
 
