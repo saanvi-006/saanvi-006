@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Saanvi Srivastava</h1>
-<h3 align="center">AI/ML Enthusiast · Full-Stack Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saanvi%20Srivastava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Exploring+how+AI%2FML+really+works;Building+full-stack+products;Learning+cloud+%26+ML+infra+every+day" alt="Typing SVG" />
@@ -8,6 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/saanvi-srivastava-937b56321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=saanvi-006&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS">
 </p>
 
 ---
@@ -18,14 +18,13 @@ I'm a CSE (AI & ML) undergraduate (2024–2028, CGPA: 8.89) with a genuine inter
 
 Right now, I'm strengthening my core CS foundations while going deeper into applied AI/ML — trying to build a base that's solid enough to actually engineer real systems, not just experiment with them.
 
-**Working on:** graph-based approaches to AI problems *(early-stage)*
-**Learning:** databases, operating systems, system design, production-grade tech stacks, and advanced AI/ML concepts
-**Interested in:** ML models, AI agent development, and cloud deployments
-**Based in:** India
+- 🧩 **Working on:** graph-based approaches to AI problems *(early-stage)*
+- 📚 **Learning:** databases, system design, and advanced AI/ML concepts
+- 💡 **Interested in:** ML models, AI agent development, and cloud deployments
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -62,7 +61,7 @@ Right now, I'm strengthening my core CS foundations while going deeper into appl
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <table align="center">
   <tr>
@@ -74,3 +73,5 @@ Right now, I'm strengthening my core CS foundations while going deeper into appl
 ---
 
 <p align="center"><i>Open to conversations on ML, agents, and cloud systems — always learning, always building.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
