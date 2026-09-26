@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saanvi Srivastava</h1>
+<h1 align="center">Hi, I'm Saanvi Srivastava</h1>
 <h3 align="center">AI/ML Enthusiast · Full-Stack Developer</h3>
 
 <p align="center">
@@ -7,24 +7,25 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saanvi-srivastava-937b56321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/saanvi-006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I'm genuinely curious about **how AI/ML actually works under the hood** — not just using it, but understanding the mechanics behind it — and I like turning that understanding into real, usable full-stack products.
+I'm a CSE (AI & ML) undergraduate (2024–2028, CGPA: 8.89) with a genuine interest in how AI/ML systems actually work under the hood, alongside a broader interest in full-stack development. I like understanding things at a fundamental level rather than just using them at the surface.
 
-- 🔭 Currently working on: **graph-based approaches to AI problems** *(early-stage exploration)*
-- 🌱 Currently learning: **production tech stacks — AWS & GCP cloud services, cloud infra, advanced AI/ML, and databases like DynamoDB & Aurora**
-- 💬 Ask me about: **ML models, AI agent development, and cloud deployments**
-- 📍 Based in India
+Right now, I'm strengthening my core CS foundations while going deeper into applied AI/ML — trying to build a base that's solid enough to actually engineer real systems, not just experiment with them.
+
+**Working on:** graph-based approaches to AI problems *(early-stage)*
+**Learning:** databases, operating systems, system design, production-grade tech stacks, and advanced AI/ML concepts
+**Interested in:** ML models, AI agent development, and cloud deployments
+**Based in:** India
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -61,16 +62,14 @@ I'm genuinely curious about **how AI/ML actually works under the hood** — not 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
-<p align="center">
-  <img src="https://github-stats-extended-frontend-rouge-two.vercel.app/api?username=saanvi-006&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=saanvi-006&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended-frontend-rouge-two.vercel.app/api/top-langs/?username=saanvi-006&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-stats-extended-frontend-rouge-two.vercel.app/api?username=saanvi-006&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="420"/></td>
+    <td><img src="https://streak-stats.demolab.com/?user=saanvi-006&theme=tokyonight" alt="GitHub Streak" width="420"/></td>
+  </tr>
+</table>
 
 ---
 
