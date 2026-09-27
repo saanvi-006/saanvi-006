@@ -1,29 +1,24 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saanvi%20Srivastava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=false&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Problem+Solver;Cloud+Explorer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saanvi-srivastava-937b56321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Problem+Solver;Cloud+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+<h3 align="center">About Me</h3>
 
 I am a software engineering student with a strong interest in AI/ML and building technology that serves a real purpose.
 
 As a 3rd-year CSE (AI & ML) undergrad (CGPA: 8.89), my projects span frontend, backend, and machine learning, allowing me to build complete applications from the ground up.
 
-- 🧩 **Working on:** Graph-based AI approaches
-- 📚 **Learning:** Databases, System Design, and Advanced AI/ML Concepts
-- 💡 **Interested in:** ML Models, AI Agents, Cloud Deployment
+- **Working on:** Graph-based AI approaches
+- **Learning:** Databases, System Design, and Advanced AI/ML Concepts
+- **Interested in:** ML Models, AI Agents, Cloud Deployment
 
 ---
 
-### 🛠️ Tech Stack
+<h3 align="center">Tech Stack</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -60,7 +55,7 @@ As a 3rd-year CSE (AI & ML) undergrad (CGPA: 8.89), my projects span frontend, b
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">GitHub Stats</h3>
 
 <table align="center">
   <tr>
@@ -68,6 +63,15 @@ As a 3rd-year CSE (AI & ML) undergrad (CGPA: 8.89), my projects span frontend, b
     <td><img src="https://streak-stats.demolab.com/?user=saanvi-006&theme=tokyonight" alt="GitHub Streak" width="420"/></td>
   </tr>
 </table>
+
+---
+
+<h3 align="center">Contact Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saanvi-srivastava-937b56321"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:saanvisrivastava2506@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
