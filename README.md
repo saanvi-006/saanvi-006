@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saanvi%20Srivastava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Saanvi%20Srivastava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+curiosity+about+AI+into+code+that+works;Building+things%2C+breaking+things%2C+learning+either+way;One+commit+closer+to+understanding+it+all" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=false&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Full-Stack+Developer;Problem+Solver;Cloud+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,15 +11,15 @@
 
 ---
 
-### About Me
+### 🚀 About Me
 
-CSE (AI & ML) undergrad (2024–2028, CGPA: 8.89). I care less about getting a model to run and more about understanding why it works — because that understanding is what lets you solve real problems instead of just putting on a good demo.
+I am a software engineering student with a strong interest in AI/ML and building technology that serves a real purpose.
 
-Right now, I'm strengthening my core CS foundations while going deeper into applied AI/ML, aiming for a base solid enough to actually engineer real systems, not just tinker with them.
+As a 3rd-year CSE (AI & ML) undergrad (CGPA: 8.89), my projects span frontend, backend, and machine learning, allowing me to build complete applications from the ground up.
 
-- 🧩 **Working on:** graph-based approaches to AI problems *(early-stage)*
-- 📚 **Learning:** databases, operating systems, system design, production-grade tech stacks, and advanced AI/ML concepts
-- 💡 **Interested in:** ML models, AI agent development, and cloud deployments
+- 🧩 **Working on:** Graph-based AI approaches
+- 📚 **Learning:** Databases, System Design, and Advanced AI/ML Concepts
+- 💡 **Interested in:** ML Models, AI Agents, Cloud Deployment
 
 ---
 
